@@ -1,2 +1,2 @@
-# M2_Traffic Light Control
+# M2_Traffic Light Signal
 
