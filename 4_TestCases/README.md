@@ -1,5 +1,5 @@
 
-# TEST_PLAN_AND_OUTPUT
+# TEST_PLAN
 ## High level 
 | ID | Description | Expected O/P | Actual O/P | Type of test |
 | --- | --- | --- | --- | --- |
